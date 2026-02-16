@@ -5,7 +5,7 @@
 using namespace std;
 
 const int N = 10000;
-const int numThreads = 16;
+const int numThreads = 4;
 
 int main() {
 
